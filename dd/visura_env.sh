@@ -30,12 +30,12 @@ CLOUDINARY_API_SECRET=your_cloudinary_secret
 # ── Gmail (for email notifications) ─────────────────────────
 # Use an App Password, NOT your main Gmail password
 # Google Account → Security → 2-Step → App Passwords
-GMAIL_USER=yourname@gmail.com
-GMAIL_PASS=abcd efgh ijkl mnop
+GMAIL_USER=ddddd
+GMAIL_PASS=adddddd
 
 # ── Discord (for payment alerts) ─────────────────────────────
 # Discord → Server → Channel Settings → Integrations → Webhooks
 DISCORD_WEBHOOK_URL=https://discord.com/api/webhooks/xxx/yyy
 
 # ── Admin email (where notifications go) ─────────────────────
-ADMIN_EMAIL=admin@yourstudio.com
+ADMIN_EMAIL=ddddddd
